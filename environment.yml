@@ -1,0 +1,19 @@
+name: tcga-ov-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - requests
+  - scikit-learn
+  - lifelines
+  - xgboost
+  - shap
+  - matplotlib
+  - seaborn
+  - pip
+  - pip:
+      - scikit-survival
+      - gseapy

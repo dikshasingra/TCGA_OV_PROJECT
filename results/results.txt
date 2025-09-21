@@ -1,0 +1,5 @@
+Results (auto-generated):
+Test C-index: 0.2667
+Top features CSV: results\top_features_permutation.csv
+KM plot: figures\km_plot.png
+Feature importance: figures\feature_importance.png

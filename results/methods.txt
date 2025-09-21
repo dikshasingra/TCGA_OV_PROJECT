@@ -1,0 +1,4 @@
+Methods (auto-generated):
+Data loaded from data_processed/combined_survival_expression.csv. After cleaning 50 samples and 500 numeric features remained.
+Survival: event encoded 1=death, 0=censored; time in days.
+Model: Random Survival Forest trained on 70% data, evaluated on 30% held-out test set.
